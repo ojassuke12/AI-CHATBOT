@@ -1,0 +1,605 @@
+{ "intents": [
+           { "tag":"etx details",
+             "patterns":["electronics and telecommunication engineering department information","electronics and telecommunication department details","Etx","Etx department information","Etx department details","electronics and telecommunication engineering","electronics and telecommunication engineering programme information","electronics and telecommunication programme details","Etx programme","Etx programme information","Etx programme details","electronics and telecommunication engineering programme"],
+             "responses":["This Programme is designed to acquire the knowledge of identification, testing and design of circuits/equipments and technical skills in the field of communication, microprocessor, instrumentation and consumer electronics. After completion of the Diploma programme, the students may be recruited as Maintenance Engineer, Service Engineer, Quality control Engineer, Technician etc. in various Government and Private Organization like Railway, BSNL, Defence, Meteorology, Heavy Electronics, Power Plants, Medical, Scientific, Home applications, Consumer electronics Industries. Student's Chapter of Institution of Electronics and Telecommunication Engineers (IETE) is established in the department."],
+             "context_set":""
+           },
+           { "tag":"etx vision",
+             "patterns":["electronics and telecommunication department vision","Etx department vision","Etx vision","electronics and telecommunication programme vision","Etx programme vision"],
+             "responses":["To thrive for academic excellence through creation of innovative, ethical, emotionally intelligent and globally acceptable professionals in the field of Electronics and Telecommunication Engineering satisfying societal and society technological needs."],
+             "context_set":""
+           },
+           { "tag":"etx hod",
+             "patterns":["Etx department hod","Etx department head","electronics and telecommunication department hod","electronics and telecommunication department head","Etx programme hod","Etx programme head","electronics and telecommunication programme hod","electronics and telecommunication programme head","Etx hod","Etx head","electronics and telecommunication hod","electronics and telecommunication head"],
+             "responses":["1st shift :Dr. V H Mankar<br> 2nd shift:Mr.A.A. Ali."],
+             "context_set":""
+           },
+           { "tag":"etx faculty",
+             "patterns":["electronics and telecommunication faculty list","electronics and telecommunication faculty","electronics and telecommunication faculties","Etx faculty","Etx faculties","Etx faculty list","electronics and telecommunication department faculty list","electronics and telecommunication department faculty","electronics and telecommunication department faculties","Etx department faculty","Etx department faculties","Etx department faculty list","electronics and telecommunication programme faculty list","electronics and telecommunication programme faculty","electronics and telecommunication programme faculties","Etx programme faculty","Etx programme faculties","Etx programme faculty list","electronics and telecommunication teachers list","electronics and telecommunication teachers","electronics and telecommunication teachers","Etx teachers","Etx teachers","Etx teachers list","electronics and telecommunication department teachers list","electronics and telecommunication department teachers","electronics and telecommunication department teachers","Etx department teachers","Etx department teachers","Etx department teachers list","electronics and telecommunication programme teachers list","electronics and telecommunication programme teachers","electronics and telecommunication programme teachers","Etx programme teachers","Etx programme teachers","Etx programme teachers list",     "electronics and telecommunication faculty list","electronics and telecommunication faculty","electronics and telecommunication faculties","Etx lecturers","Etx lecturers","Etx lecturers list","electronics and telecommunication department lecturers list","electronics and telecommunication department lecturers","electronics and telecommunication department lecturers","Etx department lecturers","Etx department lecturers","Etx department lecturers list","electronics and telecommunication programme lecturers list","electronics and telecommunication programme lecturers","electronics and telecommunication programme lecturers","Etx programme lecturers","Etx programme lecturers","Etx programme lecturers list" ],
+             "responses":["1.Dr. V H Mankar -HOD 'First shift' <br> 2.Mr.A.A. Ali HOD -'Second shift' <br> 3.Sau. H.R. Bhusari- Lecturer <br> 4.Mr. S.M. Kale- Lecturer <br> 5.Mr. J P Kelwade- Lecturer <br> 6.Mr. Smt. U.P. Potdar- Lecturer <br> 7.Mr. V.M. Sakode- Lecturer <br> 8.Sau. R.R. Vairagade- Lecturer <br> 9.Sau. P.F. Dorlikar- Lecturer <br> 10.Ku. K.G. Giri- Lecturer <br> 11.Mrs. S S Pampattiwar- Lecturer <br> 12.Ku. K.P. Yenurkar- Lecturer <br> 13.Smt. U.P. Potdar- Lecturer <br> 14.Mr. S.D. Ambade."],
+             "context_set":""
+           },
+        
+           { "tag":"etx placement",
+             "patterns":["electronics and telecommunication placement details","electronics and telecommunication placement","Etx placement details","Etx placement","electronics and telecommunication department placement details","electronics and telecommunication department placement","Etx department placement details","Etx department placement", "electronics and telecommunication programme placement details","electronics and telecommunication programme placement","Etx programme placement details","Etx programme placement"],
+             "responses":["100 % students opting for higher studies."],
+             "context_set":""
+           },
+           { "tag":"etx mission",
+             "patterns":["Etx mission","electronics and telecommunication mission","Etx department mission","electronics and telecommunication department mission","Etx programme mission","electronics and telecommunication programme mission"],
+             "responses":[" To impart high quality electronic and telecommunication engineering education embedded with professional ethics and Entrepreneur qualities.To adopt the best effective instructional methods in order to maximize knowledge transfer.To acquire adequate and innovative processes to enhance understanding of Implementation of theoretical concepts in practical scenarios. To facilitate the best infrastructure, progressive academic environment to the students and faculty members, creating an ambience, conducive for excellence in electronic and telecommunication engineering education."],
+ 	     "context_set":""  
+           },
+           { "tag":"EE deatils",
+             "patterns":["Electrical Engineering details","Electrical Engineering","Electrical Engineering  programme","Electrical Engineering department","EE department","EE","Electrical Engineering programme"],
+             "responses":["Electrical Engineering Department is offering diploma programme in Electrical Engineering since 1947 with intake 60. Highly qualified & experienced faculty with adequate infrastructure including labs, departmental library, with Electrical Maintenance cell. Department has good liasioning with industries & society."],
+             "context_set":""
+          },
+          { "tag":"EE vision",
+            "patterns":["Electrical Engineering department vision","Electrical Engineering programme vision","EE vision","EE department vision","EE programme vision","Electrical Engineering vision"],
+            "responses":["To develop skilled, ethical and self-motivated electrical professionals to meet global challenges."],
+            "context_set":""
+          },
+          { "tag":"EE mission",
+            "patterns":["Electrical Engineering department mission","Electrical Engineering programme vision","EE mission","Electrical Engineering mission"],
+            "responses":["To develop the students to render services to Industry & Society To impart quality education to acquire soft skills & entrepreneurial qualities To maintain the relationship with renowned institutes of learning & alumni for overall development of students. To inculcate moral values & professional ethics."],
+            "context_set":""
+          },
+          { "tag":"EE placement",
+            "patterns":["Electrical Engineering placement details","EE placement details","Electrical Engineering department placement details","EE department placement details","Electrical Engineering programme placement details","EE programme placement details"],
+            "responses":["1.Year-2015-16, Name of industry-Adani   Power Ltd.  Tirora ,Number of students placed-4 <br> 2.Year-2016-17, Name of industry-CEAT, Nagpur ,Number of students placed-1 <br> 3.Year-2017-18, Name of industry-Tata Projects ltd, Number of students placed-3 <br> 4.Year-2017-18, Name of industry-GE India Industrial Pvt Ltd, Number of students placed-1 <br> 5.Year-2017-18, Name of industry-CEAT, Nagpur, Number of students placed-2 <br> 6.Year-2017-18, Name of industry-Hindalco Industries Ltd, Number of students placed-1 <br> 7.Year-2017-18, Name of industry-Larsen & Toubro, Number of students placed-1"],
+            "context_set":""
+          },
+          { "tag":"EE hod",
+            "patterns":["EE hod","Electrical Engineering head","Electrical Engineering hod","EE head","EE department hod","Electrical Engineering department head","Electrical Engineering department hod","EE department head","EE programme hod","Electrical Engineering programme head","Electrical Engineering programme hod","EE programme head"],
+            "responses":["Dr.D.D Lulekar"],
+            "context_set":""
+          },
+          { "tag":"EE faculty",
+            "patterns":["Electrical Engineering faculty list","Electrical Engineering faculty","Electrical Engineering faculties","EE faculty list","EE faculty","EE faculties","Electrical Engineering department faculty list","Electrical Engineering department faculty","Electrical Engineering department faculties","EE department faculty list","EE department faculty","EE department faculties",   "Electrical Engineering programme faculty list","Electrical Engineering programme faculty","Electrical Engineering programme faculties","EE programme faculty list","EE programme faculty","EE programme faculties",           "Electrical Engineering teachers list","Electrical Engineering teachers","Electrical Engineering teachers","EE teachers list","EE teachers","EE teachers","Electrical Engineering department teachers list","Electrical Engineering department teachers","Electrical Engineering department teachers","EE department teachers list","EE department teachers","EE department teachers",   "Electrical Engineering programme teachers list","Electrical Engineering programme teachers","Electrical Engineering programme teachers","EE programme teachers list","EE programme teachers","EE programme teachers",          "Electrical Engineering lecturers list","Electrical Engineering lecturers","Electrical Engineering lecturers","EE lecturers list","EE lecturers","EE lecturers","Electrical Engineering department lecturers list","Electrical Engineering department lecturers","Electrical Engineering department lecturers","EE department lecturers list","EE department lecturers","EE department lecturers",   "Electrical Engineering programme lecturers list","Electrical Engineering programme lecturers","Electrical Engineering programme lecturers","EE programme lecturers list","EE programme lecturers","EE programme lecturers"],
+            "responses":["1.Dr.D.D Lulekar -HOD  <br> 2.A M Arekar  - 'Lecturer' <br> 3.R.I.Kamble- 'Lecturer' <br> 4.M C Musale- 'Lecturer' <br> 5.S. P. Thote- 'Lecturer' <br> 6.M N Gawande- 'Lecturer' <br> 7.Dr. G.V.Gotmare- 'Lecturer' <br> 8.H,N.Kharkar -'Lecturer' <br> 9.A.P. Gandhi -'Lecturer' ."],
+            "context_set":""
+          },
+          { "tag":"Mining details",
+            "patterns":["Mining and mine surveying department information","Mining and mine surveying department","Mining information","Mining department information","Mining","Mining and mine surveying",         "Mining and mine surveying programme information","Mining and mine surveying programme","Mining programme information" ],
+            "responses":["Department of Mining & Mine Surveying is established in the year 1963. . Only male candidates are eligible for admission to this programme. It is only diploma course in institute which is under MSBTE pattern.This course has intake capacity of 40 students and it is on Yearly pattern(Sandwich). The students have to go for practicaltraining aftersummer examination. Training is arranged in underground Coal Mines of WCL (Western Coal fields Limited)or Metal Mines of MOIL (Manganese Ore India Limited). Duration of training is of 12 weeks after First Year and 12 weeks after Second Year and is part of curriculum.After passing diploma the student is required to take further one year practical training as Post Diploma in Practical Training (PDPT) either in Coal or Metal mine as per his choice and pass Gas Testing examination conducted by Directorate General of Mines Safety (DGMS); also he should pass First Aid Certificate examination conducted by St. John Ambulance Society for getting exemption from Overman / Foreman certificate from DGMS. Currently the Department is providing Fir Aid Training approved by Saint John Ambulance society to its students.After getting Overman/Foreman Certificate he is eligible for employment in Coal/Metal mines. The students may get jobs in the Government organizations such as WCL, MOIL, MECL, IBM, CMRI, UCIL, HCL, HZL, Neyveli Lignite Corporation, Dept. of Explosives etc.The department has well equipped laboratory and well qualified and experienced Teaching faculty."],
+            "context_set":""
+          },
+          { "tag":"Mining vision",
+            "patterns":["Mining and mine surveying vision","Mining vision","Mining and mine surveying department vision","Mining department vision","Mining and mine surveying programme vision","Mining programme vision"],
+            "responses":["Department of Mining and Mine Surveying shall be strengthening education and industry institute interaction in the field of Mining to provide the desired skilled manpower with ethical values that are ready to accept challenges of mining industry and community for sustainable development."],
+            "context_set":""
+          },
+          { "tag":"Mining and mine surveying hod",
+            "patterns":["Mining and mine surveying hod","Mining and mine surveying head","Mining hod","Mining head","Mining and mine department surveying hod","Mining and mine surveying departmnet head","Mining department hod","Mining department head","Mining and mine surveying programme hod","Mining and mine surveying programme head","Mining programme hod","Mining programme head"],
+            "responses":["Shri. Bhaskar J. Naidu."],
+            "context_set":""
+          },
+          { "tag":"Mining and mine surveying faculty",
+            "patterns":["Mining and mine surveying faculty list","Mining and mine surveying faculty","Mining and mine surveying faculties","Mining faculty list","Mining faculty","Mining faculties","Mining and mine surveying department faculty list","Mining and mine surveying department faculty","Mining and mine surveying department faculties","Mining department faculty list","Mining department faculty","Mining department faculties","Mining and mine surveying programme faculty list","Mining and mine surveying programme faculty","Mining and mine surveying programme faculties","Mining faculty programme list","Mining programme faculty","Mining programme faculties","Mining and mine surveying teachers list","Mining and mine surveying teachers","Mining and mine surveying teachers","Mining teachers list","Mining teachers","Mining teachers","Mining and mine surveying department teachers list","Mining and mine surveying department teachers","Mining and mine surveying department teachers","Mining department teachers list","Mining department teachers","Mining department teachers","Mining and mine surveying programme teachers list","Mining and mine surveying programme teachers","Mining and mine surveying programme teachers","Mining teachers programme list","Mining programme teachers","Mining programme teachers","Mining and mine surveying lecturers list","Mining and mine surveying lecturers","Mining and mine surveying lecturers","Mining lecturers list","Mining lecturers","Mining lecturers","Mining and mine surveying department lecturers list","Mining and mine surveying department lecturers","Mining and mine surveying department lecturers","Mining department lecturers list","Mining department lecturers","Mining department lecturers","Mining and mine surveying programme lecturers list","Mining and mine surveying programme lecturers","Mining and mine surveying programme lecturers","Mining lecturers programme list","Mining programme lecturers","Mining programme lecturers"],
+            "responses":["1.Shri. Bhaskar J. Naidu -HOD  <br> 2.Shri. Jeevan T. Ravan  - 'Lecturer' <br> 3.Shri. Hemant C. Shende- 'Lecturer' <br> 4.Shri. Devendra V. Surkar- 'Lecturer' <br> 5.Shri. V. K. Patle- 'Lab. Asstt.' <br> 6. Shri. S. M. Patil- 'Lab Attendant'."],
+            "context_set":""
+          },
+           { "tag":"Mining and mine surveying placement",
+             "patterns":["Mining and mine surveying placement details","Mining and mine surveying placement","Mining placement details","Mining placement","Mining and mine surveying department placement details","Mining and mine surveying department placement","Mining department placement details","Mining department placement","Mining and mine surveying programme placement details","Mining and mine surveying placement","Mining placement details","Mining placement"],
+              "responses":["After passing Diploma nearly 25% to 30% students are opting for higher studies i.e. B.E. (Mining). Remaining students opt for PDPT (Post Diploma Practical Training) either in Coal Mines or Metal Mines, depending upon whether they want to join Coal or Metal Industry. Few students are also joining the job offered by companies like L&T,UltraTech Cement Ltd., etc. These students are selected during Campus interview held by theInstitute. Due to expansion and growth of Mining Industry Students have good job prospects in near future."],
+              "context_set":""
+           },
+           { "tag":"Mining and mine surveying mission",
+             "patterns":["Mining and mine surveying mission","Mining mission","Mining and mine department surveying mission","Mining department mission","Mining and mine programme surveying mission","Mining programme mission"],
+              "responses":["Imparting quality technical education to students by providing excellent Teaching learning Environmentand through competitive curriculum in collaboration with industry. Applying basic and contemporary science, engineering and innovative skills to identify problems in the industry and academia and be able to develop practical solution to them. Providing experiences in leadership, teamwork, communications — oral, written and hands-on activities, with the help of structured and unstructured real-life projects. Encouraging ethical values and leadership abilities in the minds of students so as to work towards the growth of the society."],
+ 	      "context_set":""  
+ },
+           { "tag":"Packaging Technology faculty",
+             "patterns":["Packaging Technology faculty list","Packaging Technology faculty","Packaging Technology faculties","Packaging faculty","Packaging faculty list","Packaging faculties","Packaging Technology department faculty list","Packaging Technology department faculty","Packaging Technology department faculties","Packaging department faculty","Packaging department faculty list","Packaging department faculties","Packaging Technology programme faculty list","Packaging Technology programme faculty","Packaging Technology programme faculties","Packaging programme faculty","Packaging programme faculty list","Packaging programme faculties",      "Packaging Technology teachers list","Packaging Technology teachers","Packaging Technology teachers","Packaging teachers","Packaging teachers list","Packaging teachers","Packaging Technology department teachers list","Packaging Technology department teachers","Packaging Technology department teachers","Packaging department teachers","Packaging department teachers list","Packaging department teachers","Packaging Technology programme teachers list","Packaging Technology programme teachers","Packaging Technology programme teachers","Packaging programme teachers","Packaging programme teachers list","Packaging programme teachers",            "Packaging Technology lecturers list","Packaging Technology lecturers","Packaging Technology lecturers","Packaging lecturers","Packaging lecturers list","Packaging lecturers","Packaging Technology department lecturers list","Packaging Technology department lecturers","Packaging Technology department lecturers","Packaging department lecturers","Packaging department lecturers list","Packaging department lecturers","Packaging Technology programme lecturers list","Packaging Technology programme lecturers","Packaging Technology programme lecturers","Packaging programme lecturers","Packaging programme lecturers list","Packaging programme lecturers"],
+              "responses":["1.Mr.A.S. Bhagat-'Lecturer'  <br> 2.Mr.I.A.K Sayyad-'Lecturer' <br> 3.Mr.A.P. Pardey-'Lecturer' <br> 4.A. K. Rathod-'T. Lab. Asstt.' <br> 5.P.J. Nakhale-'Hamal'."],
+              "context_set":""
+           },
+           { "tag":"Packaging Technology placement",
+             "patterns":["Packaging Technology placement details","Packaging Technology placement","Packaging placement details","Packaging placement","Packaging Technology department placement details","Packaging Technology department placement","Packaging department placement details","Packaging department placement","Packaging Technology programme placement details","Packaging Technology programme placement","Packaging programme placement details","Packaging programme placement"],
+              "responses":["Majority of students prefer to go for higher study,Unable to fulfilling recruitment demand from industries,Those are not going for higher study are 100 % placed in industries"],
+              "context_set":""
+           },
+       { "tag":"Textile Manufactures details",
+             "patterns":["Textile Manufactures information","Textile Manufactures department","Textile","Textile Manufactures",    "Textile Manufactures department information","Textile Manufactures department","Textile department",    "Textile Manufactures programme information","Textile Manufactures programme","Textile programme"],
+              "responses":["This course is designed to impart knowledge of spinning, weaving, knitting, garment technology, non-apparel textile and chemical processing aspects of Textile Technology. The students of this diploma are trained in technical and supervisory skills directly relating to all shop floor activities.The uniqueness of the programme is the excellent rapport with all textile mills in and around Nagpur which helps the department in undertaking industry based projects, organizing expert lectures, industrial visits, etc. The programme includes in-plant training of 2 month as a part of academic requirements.After completion of this programme, students may get placements in various industries such as RAYMONDS, Indorama Synthetics, clip Polysters, Morarjee Brembana, Pbm Polytex, Mangrul Mills, Digjam etc."],
+              "context_set":""
+           },
+           { "tag":"Textile Manufactures vision",
+             "patterns":["Textile Manufactures department vision",  "Textile Manufactures programme vision","Textile Manufactures vision"],
+              "responses":["To become a Centre of Excellence in imparting skill based Textile Technology Education."],
+              "context_set":""
+           },
+           { "tag":"Textile Manufactures hod",
+             "patterns":["Textile Manufactures hod","Textile Manufactures head","Textile Manufactures department hod","Textile Manufactures department head","Textile Manufactures programme hod","Textile Manufactures programme head"],
+              "responses":["Mr. D.S. Kulkarni."],
+              "context_set":""
+           },
+           { "tag":"Textile Manufactures faculty",
+             "patterns":["Textile Manufactures faculty list","Textile Manufactures faculty","Textile Manufactures faculties","Textile Manufactures department faculty list","Textile Manufactures department faculty","Textile Manufactures department faculties","Textile Manufactures programme faculty list","Textile Manufactures programme faculty","Textile Manufactures programme faculties","Textile Manufactures teachers list","Textile Manufactures teachers","Textile Manufactures teachers","Textile Manufactures department teachers list","Textile Manufactures department teachers","Textile Manufactures department teachers","Textile Manufactures programme teachers list","Textile Manufactures programme teachers","Textile Manufactures programme teachers","Textile Manufactures lecturers list","Textile Manufactures lecturers","Textile Manufactures lecturers","Textile Manufactures department lecturers list","Textile Manufactures department lecturers","Textile Manufactures department lecturers","Textile Manufactures programme lecturers list","Textile Manufactures programme lecturers","Textile Manufactures programme lecturers"],
+              "responses":["1.Mr. D.S. Kulkarni -HOD  <br> 2.Dr. C.P. Kapse - 'Lecturer' <br> 3.Mr.S.G. Gaikwad- 'Lecturer' <br> 4.Smt.L.S.Chakraborthy- 'Lecturer' <br> 5.G.P. Bargat- 'Lab. Asstt.' <br> 6. S.P. Nanhe- 'Peon'."],
+              "context_set":""
+           },
+           { "tag":"placement Textile Manufactures",
+             "patterns":["Textile Manufactures placement","Textile Manufactures placement details","Textile Manufactures department placement","Textile Manufactures department placement details","Textile Manufactures programme placement","Textile Manufactures programme placement details"],
+              "responses":["Year-2020, Name of the company-Sitaram Spinners Pvt. Ltd. Dist. Siddipet, Telangana – 502336, Number of students selected-03."],
+              "context_set":""
+           },
+           { "tag":"Textile Manufactures mission",
+             "patterns":["Textile Manufactures mission","Textile Manufactures department mission","Textile Manufactures programme mission"],
+              "responses":["M1: To impart high quality Textile Technology education and professional ethics to students. <br> M2: To adopt the best pedagogical methods in order to maximize knowledge transfer. <br> M3: To have adequate mechanisms to enhance understanding implementation of theoretical concepts in practice. <br> M4: To provide the best facility, infrastructure, and environment to the students and faculty members, creating an ambience conducive for excellence in Textile Technology education."],
+ 	      "context_set":""  
+ },
+           { "tag":"Travel and tourism vision",
+             "patterns":["Travel and tourism department vision","Travel and tourism programme vision","Travel and tourism vision"],
+              "responses":["Department of Mining and Mine Surveying shall be strengthening education and industry institute interaction in the field of Mining to provide the desired skilled manpower with ethical values that are ready to accept challenges of mining industry and community for sustainable development."],
+              "context_set":""
+           },
+           { "tag":"Travel and tourism hod",
+             "patterns":["Travel and tourism hod","Travel and tourism head","Travel and tourism department hod","Travel and tourism department head","Travel and tourism programme hod","Travel and tourism programme head"],
+              "responses":["Dr Prashant Virkhare."],
+              "context_set":""
+           },
+           { "tag":"Travel and tourism faculty",
+             "patterns":["Travel and tourism faculty list","Travel and tourism faculty","Travel and tourism faculties","Travel and tourism department faculty list","Travel and tourism department faculty","Travel and tourism department faculties","Travel and tourism programme faculty list","Travel and tourism programme faculty","Travel and tourism programme faculties","Travel and tourism teachers list","Travel and tourism teachers","Travel and tourism teachers","Travel and tourism department teachers list","Travel and tourism department teachers","Travel and tourism department teachers","Travel and tourism programme teachers list","Travel and tourism programme teachers","Travel and tourism programme teachers","Travel and tourism lecturers list","Travel and tourism lecturers","Travel and tourism lecturers","Travel and tourism department lecturers  list","Travel and tourism department lecturers","Travel and tourism department lecturers","Travel and tourism programme lecturers list","Travel and tourism programme lecturers","Travel and tourism programme lecturers" ],
+              "responses":["1.Dr Prashant Virkhare -HOD  <br> 2.Rajesh P Pund  - 'Lecturer'."],
+              "context_set":""
+           },
+           { "tag":"placement_Travel_and_Tourism",
+             "patterns":["Travel and Tourism placement details","Travel and Tourism placement",     "Travel and Tourism department placement details","Travel and Tourism department placement","Travel and Tourism programme placement details","Travel and Tourism programme placement"],
+              "responses":["1. Company:Holiday me,Year=2014-2015,No of students Placed:3 <br> 2.Company:Marwah Tours and Travels,Year=2014-2015,No of students Placed:2 <br> 3.Company:Thomas cook,Year=2014-2015,No of students placed:4 <br> 4.Company:Starline Travels,Year=2014-2015,No of students Placed:2 <br> 5.Company:Satguru Tours and Travels,Year=2014-2015,No of students Placed:5 <br> 6.Company:Mishrikotlar Tours and Travels,Year=2014-2015,No of students Placed:4 <br> 7.Bharat Travel Point , Nagpur,Year=2015-2016,No of students Placed:2 <br> 8.Veena world Pune,Year=2015-2016,No of students Placed:3 <br> 9.Girikand Tours and Travels,Year=2015-2016,No of students Placed:3 <br> 10.Pawansut Tours and Travels,Year=2015-2016,No of students Placed:3 <br> 11.Aknar travels ,Mumbai,Year=2015-2016,No of students Placed:2 <br> 12.Jagson Travels,Year=2015-2016,No of students Placed:1"],
+              "context_set":""
+           },
+           { "tag":"Travel and Tourism mission",
+             "patterns":["Travel and Tourism mission","Travel and Tourism department mission","Travel and Tourism programme mission"],
+              "responses":[" To impart high quality travel & tourism education and professional ethics to students. To adopt the best pedagogical methods in order to maximize knowledge transfer. To have adequate mechanisms to enhance understanding of implementation of theoretical concepts in practical scenarios To provide the best facility, infrastructure, and environment to the students and faculty members, creating an ambience conducive for excellence in travel &tourism education."],
+ 	      "context_set":""  
+ },
+       { "tag":"Automobile details",
+             "patterns":[" Automobile information","Automobile department information","Automobile","Automobile programme information","Automobile department","Automobile programme"],
+              "responses":["The programme has been designed to enable students to supervise vehicle assembly line of Auto industry,carry out inspection of vehicles on the basis of directives given in the Motor Vehicle Act, work as Service Engineer in Automobile servicing sector. Students of this programme are essentially sent to local authorised service stations and workshop for one day in a week for performing practicals.Pass outs of this programme have a wide range of options such as joining Automobile Manufacturing Sector, Auto ancillary Units, Road Transport Corporation, State and Central Govt. dept. having fleet of vehicles, Vehicle surveying, Auto Service Sector. Students may also get employment in concerns like Bajaj auto, L&T, Ashok Leyland , Mahindra & Mahindra, etc"],
+              "context_set":""
+           },
+           { "tag":"Automobile vision",
+             "patterns":["Automobile department vision","Automobile vision","Automobile programme vision"],
+              "responses":["Lead in Imparting Education in Automobile Engineering."],
+              "context_set":""
+           },
+           { "tag":"Automobile hod",
+             "patterns":["Automobile hod"," Automobile head"," Automobile head",  "Automobile department hod"," Automobile department head"," Automobile department head","Automobile programme hod"," Automobile programme head"," Automobile programme head",  "Automobile programme hod"," Automobile programme head"," Automobile programme head"  ],
+              "responses":["Dr. G. K. Awari."],
+              "context_set":""
+           },
+           { "tag":"Automobile faculty",
+             "patterns":["Automobile faculty ","Automobile faculties","Automobile department faculty ","Automobile department faculties","Automobile programme faculty ","Automobile programme faculties"],
+              "responses":["1.Dr. G. K. Awari -HOD  <br> 2.Dr. K. S. Dixit - 'Lecturer' <br> 3.Prof. S. A. Telang- 'Lecturer' <br> 4.Prof. S. D. Thakre- 'Lecturer' <br> 5.Prof. R. B. Tirpude- 'Lecturer' <br> 6. Prof. J. M. Syed.- 'Lecturer'. <br> 7.Prof. V. S. Kumbhar-Lecturer. <br> 8.Mr. S. S. Walurkar-Motor Mechanic. <br> 9.Mr. B. R. Zade-Motor Instructor. <br> 10.Mr. P. A. Dongare-Driver. <br> 10.Mr. G. P. Kokode-Hamal."],
+              "context_set":""
+           },
+           { "tag":"Automobile lab",
+             "patterns":["Automobile lab","Automobile laboratories"],
+              "responses":["1.Automobile Workshop <br>  2.Automobile Chassis Lab <br> 3.Two Wheeler Lab <br> 4.Calibration Lab <br> 5.Engine Lab <br> 6.Transmission lab."],
+              "context_set":""
+           },
+           { "tag":"Automobile placement",
+             "patterns":["Automobile placement","Automobile department placement","Automobile programme placement"],
+              "responses":["Year-2013-14,No of students=49,Placement=i)04 Tata Motors Pune  ii)03 SMS Infrastructure,No of students opted for higher education:42 <br> Year-2014-15,No of students=63,Placement=i)04 (Bajaj Auto)  ii)01 Ultra Tech  iii)12 other,No of students opted for higher education:46 <br> Year-2015-16,No of students=66,Placement=i)01( Bajaj Auto ) ii)02 other,No of students opted for higher education:63 <br> Year-2016-17,No of students=70,Placement=i)13 in Bajaj Auto Ltd.,No of students opted for higher education:57 <br> Year 2017-18,No of students=63,Placement=i)02 L&T ii)02 Mahindra Tractors iii)12 MTBD,No of studdents opted for higher studies:49"],
+              "context_set":""
+           },
+           { "tag":"Automobile mision",
+             "patterns":["Automobile mision","Automobile department mision","Automobile programme mision" ],
+              "responses":["To develop industry ready students also maintain the scope for vertical mobility. To inculcate innovative and problem solving approach towards the work. To develop globally acceptable students who can implement modern technology. To develop lifelong learning ability with ethical, societal and environmental protection."],
+ 	      "context_set":""  
+ },
+       { "tag":"civil details",
+             "patterns":["civil programme details","civil program details","civil","civil programme","civil department"],
+              "responses":["The Civil Engineering  Department  was  started in 1914 along with the establishment  of  the institute. The department is running in two shifts with intake of 90 in First shift & 60 in Second shift .The second shift was started functioning  from  the year 2010.The department is enriched with highly qualified and well experienced faculty ready to take challenges of mentoring  the future Civil Engineers, who are fit to take any challenges in the field. Department conducts industrial visits & co-curricular activities for overall development of students. After completing this diploma students have opportunities to work as an Entrepreneur."],
+              "context_set":""
+           },
+           { "tag":"civil vision",
+             "patterns":["civil vision","civil department vision","civil programme vision"],
+              "responses":["To impart knowledge and excellence in civil engineering and technology with global perspectives to our students and to make them ethically strong engineers to build our Nation."],
+              "context_set":""
+           },
+           { "tag":"civil hod",
+             "patterns":["civil hod","civil head","civil department hod","civil programme head","civil programme hod","civil programme head"],
+              "responses":["1st shift :<br> Dr. N V Raut &nbsp; Ph. D. (Civil) <br>2nd shift: <br>Dr. S.R.KUKADAPWAR &nbsp; B.E.(Str.)M.Tech (Urban Planning)Ph.D (Civil) ."],
+              "context_set":""
+           },
+           { "tag":"civil faculty",
+             "patterns":["civil faculty","civil faculties","civil department faculty","civil department faculties","civil programme faculty","civil programme faculties",  "civil teachers","civil department teachers","civil programme teachers","civil lecturers","civil department lecturers","civil programme lecturers"],
+              "responses":["1.Dr. N V Raut &nbsp;Ph. D. (Civil) <br> 2.Dr.R.A.Wankhade &nbsp; Ph.D. (Tech.Edu) <br> 3. Mr.S.D.Atey &nbsp; B.E.(Civil) <br> 4.Mr. S.R.Ukey &nbsp; M.Tech.(struct) <br> 5.Mr.R M Walke &nbsp; B E. (Civil) <br> 6.Mr.A.J.Fulzele &nbsp; M.Tech.(Civil) <br> 7.Dr. D. N. Kongre &nbsp; Ph.D. (Civil) <br> 8.Mr.S K Rangari &nbsp; M.Tech. (Hyd) <br>9.Mr.V.B.Dhait &nbsp; M.Tech.(struct),MBA <br> 10.Mr.N.H. Rangari &nbsp; B.Com, ITI <br>11.Mr.M.B. Kolhe &nbsp; Hsc. Science <br> 12.Dr. S.R.KUKADAPWAR &nbsp; B.E.(Str.)M.Tech (Urban Planning)Ph.D (Civil) <br> 13.Dr. S. J. Nikam &nbsp; BE(Civil)M. Tech (Hydraulics)Ph.D(Civil)MBA (Marketing) <br>14.Shri. V.P. Chindhalore &nbsp; B.Sc (Maths)BE (Construction Engg.)ME (Water resources development of irrigationEngineering) <br> 15.Shri. S. S. Mude &nbsp; BE (Civil) <br> 16.Shri. S. M. Dhanvijay &nbsp; BE(Electronics)."],
+              "context_set":""
+           },
+           { "tag":"civil labs",
+             "patterns":["civil laboratory","civil labs"],
+              "responses":["1.Survey<br> 2.Computer Centre <br> 3.Hydraulics<br> 4.Environmental Engineering<br> 5.Transportation Engineering <br> 6.Model Room "],
+              "context_set":""
+           },
+           { "tag":"civil placement",
+             "patterns":["civil placement","civil companies","civil department placement","civil department companies","civil programme placement","civil programme companies"],
+              "responses":["Total No. of students placed in companies or Government Sector from civil department in 2017-18 is 12."],
+              "context_set":""
+           },
+       { "tag":"Computer  details",
+             "patterns":[" Computer details","Computer department","Computer department details","Computer","Computer Science","Computer programme details","Computer programme",   " Computer Engineering details","Computer Engineering department","Computer Engineering department details","Computer Engineering","Computer Engineering programme details","Computer Engineering programme",    " CM details","CM department","CM department details","CM","CM programme details","CM programme" ],
+              "responses":["Computer Engineering is core branch among other branches. Computer engineering continually push the capability and applicability of computer in every industry and every facet of modern life. it embeds computers in other machines and system, build network to transfer data and develop way to make computer faster, smaller and more capable.The pass outs have opportunities to work as Customer support Engineer, Programmer, Maintenance Engineer and hardware Engineer in various sector or companies like IBM, TCS, WIPRO, persistent software, tech. Mahindra, Infosys etc. Students can also start their own career in small software development firms or Hardware Maintenance firms.."],
+              "context_set":""
+           },
+           { "tag":"Computer vision",
+             "patterns":["Computer vision","Computer Science vision","CM vision",    "Computer department vision","Computer Science department vision","CM department vision",    "Computer programme vision","Computer Science programme vision","CM programme vision"],
+              "responses":["To provide academic excellence in computer engineering by imparting indepth knowledge that meets the aspirations of the global community and to serve as a valuable resource for industry."],
+              "context_set":""
+           },
+           { "tag":"Computer hod",
+             "patterns":["Computer hod"," Computer head","Computer Science hod"," Computer Science head","CM hod"," CM head",    "Computer department hod"," Computer department head","Computer Science department hod"," Computer Science department head","CM department hod"," CM department head",   "Computer programme hod"," Computer programme head","Computer Science programme hod"," Computer Science programme head","CM programme hod"," CM programme head"],
+              "responses":["Mr.S.P. Lambhade."],
+              "context_set":""
+           },
+           { "tag":"Computer faculty",
+             "patterns":["Computer faculty","computer faculties",   "Computer Science  faculty","computer Science faculties", "CM faculty","CM faculties","Computer department faculty","Computer department faculties","Computer Science department  faculty","Computer Science department faculties", "CM department faculty","CM department faculties",     "Computer programme faculty","Computer programme faculties",   "Computer Science programme faculty","Computer Science programme faculties", "CM programme faculty","CM programme faculties",           "Computer teachers","computer  teachers",   "Computer Science  teachers","computer Science  teachers", "CM  teachers","CM  teachers","Computer department  teachers","Computer department  teachers","Computer Science department   teachers","Computer Science department  teachers", "CM department  teachers","CM department  teachers",     "Computer programme  teachers","Computer programme  teachers",   "Computer Science programme  teachers","Computer Science programme  teachers", "CM programme  teachers","CM programme  teachers",            "Computer lecturers","computer lecturers",   "Computer Science  lecturers","computer Science lecturers", "CM lecturers","CM lecturers","Computer department lecturers","Computer department lecturers","Computer Science department lecturers","Computer Science department lecturers", "CM department lecturers","CM department lecturers",     "Computer programme lecturers","Computer programme lecturers",   "Computer Science programme lecturers","Computer Science programme lecturers", "CM programme lecturers","CM programme lecturers" ],
+              "responses":["1.Mr.S.P. Lambhade -HOD  <br> 2.Mr.M.A. Rahman- 'Lecturer' <br> 3.Mrs. C. R. Chaudhari- 'Lecturer' <br> 4. Ms.S.N.Chaudhari- 'Lecturer' <br> 5.Mr. A. A. Uike- 'Lecturer' <br> 6.Ms. D M Shirkey- 'Lecturer'. 7.Mr.S.A. Khatri- 'Lecturer' <br> 8.Ms. S.C. Shivde- 'Lecturer' <br> 9.Mr. P. K. Padole- 'Hamal'."],
+              "context_set":""
+           },
+           { "tag":"Computer lab",
+             "patterns":["computer laboratories","Computer labs"],
+              "responses":["1.Network and Internet Lab <br>  2.Programming Lab <br> 3.Software Lab <br> 4.Hardware Lab <br> 5.Software Testing / Multimedia Lab."],
+              "context_set":""
+           },
+           
+           { "tag":"Computer mision",
+             "patterns":["Computer mision","CM mission","Computer Science mission","Computer department mision","CM department mission","Computer Science department mission",  "Computer programme mision","CM programme mission","Computer Science programme mission"],
+              "responses":[" To develop human potential to its fullest extent so that intellectually capable and optimistic leaders can emerge in a range of profession.To provide quality engineering education to the students through state of art education in Computer engineering.To produce globally competent diploma holders having creative skills and ethical values keeping pace with ever-changing technological advancements in Computer Engineering.To establish Industry Institute Interaction to make students ready for the industrial environment.."],
+ 	      "context_set":""  
+ },
+       { "tag":"mechanical details",
+             "patterns":["mechanical details"," mechanical "," mechanical program", "mechanical department details"," mechanical department ","mechanical programme details"," mechanical programme "],
+              "responses":["The mechanical department which started along with start of the institute in 1914. The department is enriched with highly qualified and well experienced faculties ready to take challenges of mentoring the future Diploma Engineers, who are fit to take any challenges in the field. Regular industrial visits, Industrial training, interaction with field experts along with participation in various cocurricular events is facilitated by the staff of the department in the interest of students for the better grooming and overall development of the students. The department is running in two shifts with intake of 60 each, taking total capacity to 120. The second shift started functioning from year 2010."],
+              "context_set":""
+           },
+           { "tag":"mechanical vision",
+             "patterns":["mechanical  vision","mechanical department vision","mechanical programme vision"],
+              "responses":["Impart quality education to create world class Technical Professionals and Entrepreneur to meet the changing need of Industries and Society."],
+              "context_set":""
+           },
+           { "tag":"mechanical hod",
+             "patterns":["mechanical hod","mechanical head","mechanical department hod","mechanical department head","mechanical programme hod","mechanical programme head"],
+              "responses":["1st shift:<br>Mr. Pradeep Vasantrao Rekhade<br>ME (Thermal)<br>2nd shift:<br>Dr. Rajesh G. Choudhari<br>PhD"],
+              "context_set":""
+           },
+           { "tag":"mechanical faculty",
+             "patterns":["mechanical faculty","mechanical faculties",  "mechanical department faculty","mechanical department faculties",    "mechanical programme faculty","mechanical programme faculties","mechanical teachers","mechanical teachers","mechanical department teachers","mechanical programme lecturers","mechanical programme lecturers","mechanical lecturers"],
+              "responses":["1.Mr. Pradeep Vasantrao Rekhade &nbsp; ME (Thermal) <br>2.Mr. Ashish Sayajirao Bahendwar &nbsp; M-Tech <br>3.Mr. Milind S. Despande &nbsp; M-Tech, P.hd <br>4.Mrs. Monali Deepak Kothekar &nbsp; M. Tech (HPE) <br>5.Mr. Rajesh Subhashchandra Raool &nbsp; BE, M-Tech <br>6.Mr. Sushil Balkrushna Bambole &nbsp;BE, M-tech <br>7. Mr. Vinod Uttamrao Datir &nbsp; M-Tech <br>8.Mr. Yogesh Baburao Dupare &nbsp; M-Tech <br> 9.Mr. Yogeshwar Krishnarao Gaiky &nbsp; M-Tech <br>10.Mr. Nitin Eknathrao Pise &nbsp; M-Tech <br>11.Mr. Tejrao Krushnarao Ghormade &nbsp; M-Tech <br>12.Dr. Rajesh G. Choudhari &nbsp; PhD <br>13.Mr. M. M. Dangre &nbsp; A.M.I.E.ME (TPE) Thermal Power Engg. <br>14.Mr. S. A. Dhankute &nbsp;BE (Mech)ME (Thermal Engg.) <br>Smt. K.P.Thaware &nbsp; MTech.(Prod Tech & Management)"],
+              "context_set":""
+           },
+           { "tag":"mechanical labs",
+             "patterns":["mechanical laboratory","mechanical labs"],
+              "responses":["1.Power Engg <br> 2.PLC <br> 3.Automation <br> 4.Fluid Mechanics & Machinery <br> 5.RAC <br> 6.HMT <br> 7.MQC <br> 8.MM <br> 9.CAD/CAM <br> 10.Computer"],
+              "context_set":""
+           },
+           { "tag":"mechanical placement",
+             "patterns":["mechanical placement","mechanical companies","mechanical department placement","mechanical department companies","mechanical programme placement","mechanical programme companies"],
+              "responses":["Bajaj Auto ltd <br> L&T <br> Tata Motors <br> Uttam Galva Steel <br> Reliance Power"],
+              "context_set":""
+           },
+           { "tag":"Metallurgy vision",
+             "patterns":["Metallurgy vision","Metallurgy department vision","Metallurgy programme vision"],
+              "responses":["To produce excellent, self-motivated, creative and ethical metallurgical technicians for industries and society."],
+              "context_set":""
+           },
+           { "tag":"Metallurgy hod",
+             "patterns":["Metallurgy hod"," Metallurgy head",  "Metallurgy department hod"," Metallurgy department head",  "Metallurgy programme hod"," Metallurgy programme head"],
+              "responses":["Ku. V.C. Humane."],
+              "context_set":""
+           },
+           { "tag":"Metallurgy faculty",
+             "patterns":["Metallurgy faculty","Metallurgy faculties","Metallurgy department faculty","Metallurgy department faculties",   "Metallurgy programme faculty","Metallurgy programme faculties", "Metallurgy teachers","Metallurgy department teachers","Metallurgy programme teachers","Metallurgy lecturers","Metallurgy department lecturers","Metallurgy programme lecturers"],
+              "responses":["1.Ku. V.C. Humane -HOD  <br> 2.Shri R S Tuljapurkar- 'Lecturer' <br> 3.Shri B M Warkhade- 'Chargemen' <br> 4. Shri D T Kapse- 'Instructor' <br> 5.Shri S Y. Surjuse- 'Hamal' <br> 6.Bunty Adbadiya- 'Sweeper'."],
+              "context_set":""
+           },
+           { "tag":"Metallurgy lab",
+             "patterns":["Metallurgy laboratories","Metallurgy labs"],
+              "responses":["1.Heat Treatment <br>  2.Physical Metallurgy <br> 3.Testing Of Materials <br> 4.Chemical Analysis <br> 5.Computer Lab <br> 6.Foundry Technology <br> 7.Metal Working."],
+              "context_set":""
+           },
+          
+           { "tag":"Metallurgy mision",
+             "patterns":["Metallurgy mision","Metallurgy department mission","Metallurgy programme mission"],
+              "responses":[" To impart high quality Metallurgical Engineering education and professional ethics to students. To adopt the best pedagogical methods in order to maximize knowledge transfer. To adopt mechanisms to enhance understanding of implementation of theoretical concepts in practical scenarios. To provide the best facilities, infrastructure, and environment for the students and faculty members, creating an ambience conducive for excellence in Metallurgical engineering education."],
+ 	      "context_set":""  
+ },
+          { "tag":"IT Details",
+            "patterns":["Information Technology department details","Information Technology department","Information Technology program details","IT department details","IT department","IT","Information Technology","Information Technology programme","Information Technology department"],
+             "responses":["The Department of Information Technology is established in 2001, Information Technology continually push the capability and applicability of computer in every industry and every facet of modern life. The pass outs have opportunities to work as Customer support Engineer, Programmer, Maintenance Engineer and hardware Engineer in various sector or companies like IBM, TCS, WIPRO, persistent software, tech. Mahindra, Infosys etc. Students can also start their own career in small software development firms or Hardware Maintenance firms. Information Technology Dept. is Accredited in the year 2019 for 3 years by National Broad of Accreditation."],
+             "context_set":""
+          },
+          { "tag":"IT vision",
+            "patterns":["IT department vision","Information Technology department vision","IT vision","Information Technology vision",  "IT programme vision","Information Technology programme vision"],
+             "responses":["Our vision is to promote excellence in teaching and learning to produce lifelong learners who can compete globally to serve information industry and society."],
+             "context_set":""
+          },
+          { "tag":"IT mission",
+            "patterns":["IT department mission","Information Technology department mission","IT mission","Information Technology mission","IT programme mission","Information Technology programme mission"],
+             "responses":["The mission of  Information Technology Department is: M1: To enhance the educational experience that inspires students to reach for the highest level of accomplishment and personal growth throughout their lives. M2: To provide an environment that enables students and faculty to make lasting contributions to the advancement of knowledge and the creative practice of Information Engineering. M3: To fulfill expectations of the society and industry by equipping students with state of art technology resources for developing sustainable solutions. M4: Design and deliver curricula to meet the national and global changing needs through student-centric learning methodologies."],
+             "context_set":""
+          },
+          { "tag":"IT faculty",
+             "patterns":["Information Technology faculty list","Information Technology faculty","Information Technology faculties",   "Information Technology department faculty list","Information Technology department faculty","Information Technology department faculties","Information Technology faculty programme list","Information Technology programme faculty","Information Technology programme faculties","Information Technology teachers list","Information Technology teachers","Information Technology department teachers list","Information Technology department teachers","Information Technology teachers programme list","Information Technology programme teachers","Information Technology lecturer list","Information Technology lecturer",   "Information Technology department lecturer list","Information Technology department lecturer", "Information Technology lecturer programme list","Information Technology programme lecturer","IT lecturer list","IT lecturer","IT department lecturer list","IT department lecturer","IT lecturer programme list","IT programme lecturer","IT teachers list","IT teachers","IT department teachers list","IT department teachers","IT teachers programme list","IT programme teachers"],
+              "responses":["1.Dr..A.R. Mahajan-HOD  <br> 2.Ms. I G Lokhande- Lecturer <br> 3.Mr.L.D. Vilhekar- Lecturer <br> 4.Sau.D.P.Chanmanwar- Lecturer <br> 5.Mrs.Shifa Mohd.- Lecturer <br> 6.Mr.L.L. Bhadekar- Lecturer <br> 7.Mr.S.J Pukale- Lecturer <br> 8.B. J Bagde- T. Lab. Asstt. <br> 9.Ms Shinde- Lab Assistant <br> 10.Rinku Sonikar- Hamal."],
+              "context_set":""
+           },
+          { "tag":"IT hod",
+            "patterns":["IT hod","Information Technology hod","IT head","Information Technology head",   "IT department hod","Information Technology department hod","IT department head","Information Technology department head","IT programme hod","Information Technology programme hod","IT programme head","Information Technology programme head"],
+             "responses":["Dr.A.R.Mahajan."],
+             "context_set":""
+          },
+          { "tag":"college  details",
+             "patterns":["gpn details"," college details","Government polytechnic nagpur"],
+              "responses":["The Government Polytechnic ,Nagpur , was founded on July, 1914 . At its commencement the school had 16 students on roll. The institution has given to Engineering College presently known as V.N.I.T. Nagpur, as well as Govt. Medical College (GMC), Nagpur. "],
+              "context_set":""
+           },
+           { "tag":"college intake",
+             "patterns":["gpn intake"," college intake","college seats","gpn seats"],
+              "responses":["The total intake capacity of all programmes is 860 students (first shift 680 and second shift 180 )."],
+              "context_set":""
+           },
+           { "tag":"campus area",
+             "patterns":["campus size","campus area"],
+              "responses":["the premises of this institute is spread over 22 acres of land."],
+              "context_set":""
+           },
+           { "tag":"college facilities",
+             "patterns":["college facilities"," gpn facilities"],
+              "responses":["Good infra-structure facilities like well equipped laboratories, Computer center, conference hall ,Audio-Visual Room, Community Hall, Gymnasium, Good play ground etc. "],
+              "context_set":""
+           },
+           { "tag":"hostal capacity",
+             "patterns":["hostal capacity","hostal seats"],
+              "responses":["Accommodation for 180 boys, 54 girls and 20 trainees is also available in the campus."],
+              "context_set":""
+           },
+           { "tag":"college revenue",
+             "patterns":["college revenue","gpn evenue"],
+              "responses":["The institute generates revenue every year ( around Rs.1.25 corer ) through Continuing Education Programmes, Consultancy, Testing, Hiring of facilities etc."],
+              "context_set":""
+           },
+           { "tag":"college vision",
+             "patterns":["institute vision","college vision"],
+              "responses":["To become a Center of Excellence, providing quality technical education and training."],
+              "context_set":""
+           },
+           { "tag":"cep courses",
+             "patterns":["continuing education program courses","courses in cep"],
+              "responses":["1 Architect Assistant<br>2 Interior Designing (B.T.T.D. Design, P.P. Autocad)<br>3 Architectural Designs (Autocad, Revit, 3D Max)<br>4 CAD / CAM (CREO)<br>5 PLC & SCADA<br>6 Java  Professional (Core & Advance ) Servlet, JSP),  Java Framework (Hibernate + Spring)<br>7 Web Designing (HTML, CSS, Photoshop, Dreamweaver)<br>8 Hardware and Network Engineer<br>9 Laptop Service Engineer<br>10 Repairing & Maintenance of Refrigeration and Air Conditioning Equipment’s<br>11 CNC Operator Cum Programmer<br>12 Electrical CAD<br>13 Graphics Design<br>14 Tally  with G.S.T<br>15 Fashion Designing<br>16 Building Construction Supervisor<br>17 Advance Technologies in Software Development  (C, C++)."],
+              "context_set":""
+           }, 
+           { "tag":"patents",
+             "patterns":["patents"],
+              "responses":["1.Dr. Chandrasekhar S. Thorat, Principal , Govt. Polytechnic Nagpur has filed four patents for registration at patent office Mumbai<br>2 .Dr. G.K Awari ,HOD ,Automobile dept. Govt. polytechnic, Nagpur has filed three patents .<br>3.Prof. Raju. B Tirpude, Lecturer in Automobile Dept.Govt. polytechnic, Nagpur has filed five patents .<br>4.Prof. MudrikaI.Ahmed, Lecturer in Chemistry Dept. Govt. polytechnic, Nagpur has filed one patent."],
+              "context_set":""
+           },
+           { "tag":"admission proccess",
+             "patterns":["admission proccess","admission steps","admission procedure  "],
+              "responses":["1 Commencement of online registration for DTE Maharashtra diploma admission<br>2 Verification of documents and application confirmation<br>3 Provisional merit list for maharashtra polytechnic admission<br>4 Submission of grievances against provisional merit list<br>5 Declaration of final merit list<br>6.0 Cap Round 1<br>6.1 Publication of seat matrix<br>6.2 Submission and confirmation of option form by candidates<br>6.3 CAP round 1 seat allotment<br>6.4 Candidate reporting to Admission Reporting Centre (ARC) for freeze or seat upgradation.<br>6.5 Reporting to the Allotted Institute for CAP Round 1<br>If Candidates not offered a seat according to their first preference will get a chance to participate in the subsequent cap round.<br>7 Cap Round 2<br>8 Cap Round 3"],
+              "context_set":""
+           },
+           { "tag":"admission criteria",
+             "patterns":["admission eligibility","admission criteria"],
+              "responses":["1.Candidates should be Indian nationals<br>2.Candidates should have passed class 10 or SSC or its equivalent examination<br>3.Candidates should have secured at least 35% marks in the qualifying examination<br>4.NRI / OCI / PIO, Children of Indian workers in the Gulf countries, Foreign National Such candidates should have passed class 10/ SSC/ its equivalent examination with at least 35% aggregate marks."],
+              "context_set":""
+           },
+             { "tag":"dte form",
+             "patterns":[" dte form"],
+              "responses":["1.Candidates have to visit the official website at dtemaharashtra.gov.in and click on the link to apply for Maharashtra Polytechnic admission 2021. They will first have to register by using their valid email ID and password.<br>2.Candidates will have to provide personal, academic, communication. Etc details in the online application.<br>3.After providing necessary information, candidates have to upload the required documents in the format as prescribed by the authorities.<br>4.After uploading all the required documents, candidates have to pay the application fee in online mode.<br>5.After providing all the necessary information in the application form for DTE Maharashtra diploma admission 2021, candidates have to click on the “Submit” button to complete the process."],
+              "context_set":""
+           },
+             { "tag":"freezing",
+             "patterns":[" freezing"],
+              "responses":["In case the first seat preference is allotted to candidates, then it will automatically be frozen and candidates will not be allowed to participate in the subsequent rounds of Maharashtra Polytechnic counselling 2021. In case of otherwise, candidates will get a chance to freeze their seat if they are satisfied with the allotted seat. To freeze a seat, candidates will have to report to ARC in confirmation of the seat acceptance."],
+              "context_set":""
+           },
+             { "tag":"upgradation seat",
+             "patterns":["upgradation seat"],
+              "responses":["Candidates not offered a seat according to their first preference will get a chance to participate in the subsequent counselling rounds for a chance to get a preferred seat."],
+              "context_set":""
+           },
+           { "tag":"greeting",
+            "patterns":["hello"],
+             "responses":["hi I am your assistant how can I help you!"],
+             "context_set":""
+        },
+        { "tag":"goodbye",
+            "patterns":["bye"],
+             "responses":["Bye, see you later!"],
+             "context_set":""
+        },
+        { "tag":"Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna details",
+            "patterns":["Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna details","Rajarshi Chhatrapati Shahu Maharaj Scholarship details"],
+             "responses":["<h5>Scheme Name</h5>Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna<br><br><h5>Department Name</h5>Department of Technical Education<br><br><h5>Overview</h5>The objective of the Scheme is to provide financial assistance to the Economic Backward Class who are admitted to Diploma / Degree / Postgraduate Professional courses through Centralized Admission Process (CAP).<br><br><h5>Benefits</h5>50 % of Tuition Fees and 50 % of Exam Fee.<br><br><h5>Eligibility</h5>(As per the GR Dated 07th Oct 2017,01st March 2018, 31st March 2018, 11.07.2019)<br>a) Applicant should have Nationality of India.<br>b) Candidate should be Domicile of Maharashtra State.<br>c) Applicant should be ”Bonafide Student of Institute” and admitted for Professional and Technical course (Diploma / Graduation / Post Graduation Degree) as mentioned in GR<br>d) Deemed University and Private university is not applicable<br>e) Candidate should be admitted through Centralized Admission Process (CAP).<br>f) Applicant should not avail any other scholarship/stipend.<br>g) For current Academic Year, Only 2 child from family are allowed for benefit of scheme.<br>h) The Total Annual Income of Family / Guardian should not be more than 8 Lakhs.<br>i) Minimum 50 % attendance in previous semester (Exception for fresh admitted in College).<br>j) During course duration, candidate should not have a gap of 2 or more than 2 years.<br>k) Candidates are eligible those who have taken an admission under General category and SEBC Category.<br><br><h4>Renewal Policy</h4><h5>Documents Required</h5>a) Mark sheet of 10th (S.S.C) & Onwards.<br> b) Domicile Certificate of Maharashtra State. <br>c) Family Annual Income certificate <br>d) Undertaking “In current year, not more than 2 beneficiary from family”.<br>e) CAP Related document.<br>f) Proof of Biometric attendance (Interface UIDAI)."],
+             "context_set":""
+        },
+        { "tag":"Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna details",
+            "patterns":["Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna details","Dr. Panjabrao Deshmukh scholarship details"],
+             "responses":["<h5>Scheme Name</h5>Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna<br><br><h5>Department Name</h5>Department of Technical Education<br><br><h5>Overview</h5>This is a plan for students of government, government funded and non-affiliated colleges / polytechnics entering the vocational courses set by the government, whose students are certified by the competent authority, as a marginal farmers or whose parents are registered laborers.<br><br><h5>Benefits</h5>a) For child of Registered Labor / Alpabhudharak (Marginal Land Holder).<br> - For institute in MMRDA / PMRDA / Aurangabad City / Nagpur City- Rs.30,000/- for 10 months.<br> - For institute in other area Rs.20,000/- for 10 months.<br> b) For Annual Family income up to 8 Lakhs.<br>- For institute in MMRDA / PMRDA/ Aurangabad City / Nagpur City- Rs.10,000/- for 10 months.<br> - For Institute in other area Rs.8,000/- for 10 months.<br><br><h5>Eligibility</h5>Eligibility Criteria: (As per the GR Dated 07th Oct 2017, 22nd Feb 2018 , 01st March 2018, 18th June 2018, 11th July 2019 )a) Applicant should have Nationality of India.<br> b) Candidate should be Domicile of Maharashtra State.<br> c) Applicant should be ”Bonafide Student of Institute” and admitted for Professional and Technical course (Diploma / Graduation / Post Graduation Degree) as mentioned in GR<br> d) Deemed University and Private university is not applicable<br> e) Candidate should be admitted through Centralized Admission Process (CAP).<br> f) Applicant should not avail any other scholarship/stipend.<br> g) For current Academic Year, Only 2 child from family are allowed for benefit of scheme.<br> h) The Total Annual Income of Family / Guardian should not be more than 8 Lakhs.<br> i) Minimum 50 % attendance in previous semester (Exception for fresh admitted in College).<br>j) During course duration, candidate should not have a gap of 2 or more than 2 years.<br> K) Candidates are eligible those who have taken an admission under General category and SEBC Category<br><br><h4>Renewal Policy</h4><h5>Documents Required</h5>a) Mark sheet of 10th (S.S.C) & Onwards.<br> b) Domicile Certificate of Maharashtra State.<br> c) Register Labor Certificate / Alpabhudharak (Marginal Land Holder) Certificate ( In case of not a child of Alpabudharak or Registered Labour then family Annual Income Certificate ).<br> d) Undertaking “In current year, not more than 2 beneficiary from family”.<br> e) CAP Related document.<br>f) Hosteller documents ( In case of private hostel or Paying Guest, Agreement with owner will be required."],
+             "context_set":""
+        },
+        { "tag":"open scholarship",
+            "patterns":["open category scholarship"],
+             "responses":["<h4>Scholarship for Open Category</h4><h5>Tution Fee and Examination Fee Scholarship</h5>Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna<h5>Hostel Fee Scholarship</h5>Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna"],
+             "context_set":""
+        },
+        { "tag":"sc scholarship",
+            "patterns":["sc category scholarship"],
+             "responses":["<h4>Scholarship for SC Category</h4><h5>Tution Fee and Examination Fee Scholarship</h5>Government of India Post-Matric Scholarship"],
+             "context_set":""
+        },
+        { "tag":"st scholarship",
+            "patterns":["st category scholarship"],
+             "responses":["<h4>Scholarship for ST Category</h4><h5>Tution Fee and Examination Fee Scholarship</h5>Post Matric Scholarship Scheme (Government Of India )"],
+             "context_set":""
+        },
+        { "tag":"vjnt scholarship",
+            "patterns":["VJNT category scholarship"],
+             "responses":["<h4>Scholarship for VJNT Category</h4><h5>Tution Fee and Examination Fee Scholarship</h5>Post Matric Scholarship to VJNT Students"],
+             "context_set":""
+        },
+        { "tag":"obc scholarship",
+            "patterns":["obc category scholarship"],
+             "responses":["<h4>Scholarship for OBC Category</h4><h5>Tution Fee and Examination Fee Scholarship</h5>Post Matric Scholarship to OBC Students"],
+             "context_set":""
+        },
+        { "tag":"sbc scholarship",
+            "patterns":["sbc category scholarship"],
+             "responses":["<h4>Scholarship for SBC Category</h4><h5>Tution Fee and Examination Fee Scholarship</h5>Post Matric Scholarship to SBC Students"],
+             "context_set":""
+        },      
+        { "tag":"Government of India Post-Matric Scholarship details",
+            "patterns":["Government of India Post-Matric Scholarship details","Post-Matric Scholarship SC details"],
+             "responses":["<h5>Scheme Name</h5>Government of India Post-Matric Scholarship<br><br><h5>Department Name</h5>Social Justice and Special Assisstance<br><br><h5>Overview</h5>1) Providing financial assistance for education.<br>2) Providing financial assistance for education.<br>3) To reduce the drop in education leakage.<br>4) Creating a passion for higher education.<br>5) Providing students the opportunity to go to the mainstream of education through education.<br>6) Scholarship scheme to avoid transparency, co-ordination and delay.<br>7) Benefits of Tuition Fees, Exam Fees and Maintenance Allowance are paid to only SC category students.<br>8) Candidate family income should be less than or equal to 2,50,000/-<br><br><h5>Benefits</h5>Under this Scheme the eligible SC/ Neo Buddhist students are paid benefits as bellow.<br>1) Maintenance Allowance is provided as per Group I, Group II, Group III, Group IV per month from date of admission to date of exam (max 10 months)<br> Day Scholar: (Amount in Rupees per month)<br>• Group I 550<br>• Group II 530<br>• Group III 300<br>• Group IV 230<br>Hosteller (Amount in Rupees per month)<br>• Group I 1200<br>• Group II 820<br>• Group III 570<br>• Group IV 380<br>2) Additional allowances for SC students with disabilities(Type wise disabilities) as mentioned in GR are as follows,<br>Type of Disability Allowances(Rs per month) Remark<br>Blindness/Low vision Grp I & II – 150/-<br>Grp III – 125/-<br>Grp IV – 100/- As per GR (A) of additional allowances<br>Leprosy cured All Groups:<br>i) Transportation Allowance upto 100/-(Students residing outside hostel campus)<br>ii) Escort Allowance 100/-<br>iii) Special Pay allowance for hostel employee as care taker. 100/- As per GR (B, C, D) of additional allowances<br>Hearing Impaired All Groups:<br>i) Transportation Allowance upto 100/-(Students residing outside hostel campus)<br>As per GR (B) of additional allowances<br>Locomotor Disability All Groups:<br>i) Transportation Allowance upto 100/-(Students residing outside hostel campus)<br>As per GR (B) of additional allowances<br>Mental Retardation/ Mental Illness All Groups:<br>i) Transportation Allowance upto 100/-(Students residing outside hostel campus)<br>ii) Escort Allowance 100/-<br>iii) Special Pay allowance for hostel employee as care taker. 100/-<br>iv) Extra Coaching allowance 150/- As per GR (B, C, D, E) of additional allowances<br>Orthopaedic Disability All Groups:<br>i) Transportation Allowance upto 100/-(Students residing outside hostel campus)<br>ii) Escort Allowance 100/-<br>iii) Special Pay allowance for hostel employee as care taker. 100/- As per GR (B, C, D) of additional allowances<br>3) In addition to the maintenance allowance all mandatory fees/ compulsory payable fees i.e. (Tuition Fees, Exam Fees & other Fees) by the student to the institutes are covered under this scheme.<br><br><h5>Eligibility</h5>1) The parents/Guardian annual income shall be less than or equal to Rs. 2,50,000.<br>2) Student category shall belong to Scheduled caste or Navbouddha<br>3) Student shall belong to resident of Maharashtra<br>4) Student should be passes SSC/equivalent Matric.<br>5) Failure: if student fail first time then should avail Exam fees & maintenance allowance. If fails second time in same class then he/she will not get any allowance and after two drops he will pass and go to next class then he will be eligible.<br>6) In case of student studying out of Maharashtra then same rules are applicable as per GOI.<br>7) Only 2 professional Courses are allowed.<br><br><h4>Renewal Policy</h4><h5>Documents Required</h5>• Income Certificate(Provided by Tahesildar)<br>• Cast Certificate.<br>• Mark sheet for last appeared examination<br>• Mark sheet for SSC or HSC<br>• Father date Certificate(if required)<br>• Gap & Self Declaration(if required)<br>• Hostel Certificate (if required)<br>• Husband Income Certificate(if girl is married)"],
+             "context_set":""
+        },  
+        { "tag":"Post Matric Scholarship Scheme (Government Of India ) details",
+            "patterns":["Post Matric Scholarship Scheme (Government Of India ) details","Post Matric ST Scholarship details"],
+             "responses":["<h5>Scheme Name</h5>Post Matric Scholarship Scheme (Government Of India )<br><br><h5>Department Name</h5>Tribal Development Department<br><br><h5>Overview</h5>Scheme of Post Matric Scholarships to the students belonging to Scheduled Tribes for Studies in India<br><br><h5>Benefits</h5>[Hostellers/Day Scholors] per Month-<br>Group 1 : 1200/550Rs,Group 2 :820/530Rs,Group 3 :570/300 Rs,Group 4 :380/230 Rs<br>* Additional to this Reader Allowance :Group1-2 : 240 Rs,Group 3 :200 Rs,Group 4:160Rs<br>* Escort Allowance : 160 Rs/month<br>* Special Pay :160 Rs/Month. For Mentally retired, extra coaching : 240 Rs/Month<br>* Study Tours :1600 Rs/Anum<br>* Thesis Typing/Printing :1600/Anum<br>* Book Grant 1200 Rs/Annum<br><br><h5>Eligibility</h5>Applicable for ST only<br>* If Family Income <= 2,50,000, he will get the scholarship<br>* Minimum 10th Pass<br>* Back to back drop for 2 years he/she will not be allowed to fill form.<br><br><h4>Renewal Policy</h4>The student have to pass the previous year examination<br> If student fails in any year then he is not paid the scholarship for that particular year<br> The student has to apply for renewal of the scholarship<h5>Documents Required</h5>1.Caste Certificate<br>2.Income Certificate<br>3.Previous year's marksheet<br>4.Professional Course selected than caste validity certificate mandatory"],
+        "context_set":""
+        },         
+        { "tag":"Post Matric Scholarship to VJNT Students details",
+            "patterns":["Post Matric Scholarship to VJNT Students details","Post Matric VJNT Scholarship details"],
+             "responses":["<h5>Scheme Name</h5>Post Matric Scholarship to VJNT Students<br><br><h5>Department Name</h5>VJNT,OBC and SBC Welfare Department<br><br><h5>Overview</h5>• Providing financial assistance for education.<br>• Creating a passion for higher education.<br>• Providing students the opportunity to go to the mainstream of education through education.<br>• Scholarship scheme to avoid transparency, co-ordination and delay.<br>• Benefits of Tuition Fees, Exam Fees and Maintenance Allowance are paid to only VJNT category students.<br><br><h5>Benefits</h5>Eligible V.J.N.T. Applicants are paid maintenance allowance :<br>1) If Applicant select Course Group A - for hostlers Rs.425/p.m. & Day Scholars(Non Hostlers) Rs.190/p.m. (Duration - Admission date to till exam completion date)<br>2) If Applicant select Course Group B - for hostlers Rs.290/p.m. & Day Scholars(Non Hostlers) Rs.190/p.m.(Duration - Admission date to till exam completion date)<br>3) If Applicant select Course Group C - for hostlers Rs.290/p.m. & Day Scholars(Non Hostlers) Rs.190/p.m.(Duration - Admission date to till exam completion date)<br>4) If Applicant select Course Group D - for hostlers Rs.230/p.m. & Day Scholars(Non Hostlers) Rs.120/p.m. (Duration - Admission date to till exam completion date)<br>5) If Applicant select Course Group E - for hostlers Rs.150/p.m. & Day Scholars (Non Hostlers) Rs.90/p.m. (Duration - Admission date to till exam completion date)<br>6) Tuition Fee, Exam Fee and Maintenance allowance are paid 100% to applicants who’s studying in government/aided/non aided institutions in professional courses and non-professional courses.<br>7) If Applicant get admission in government hostel then he will eligible only 1/3rd amount of hostlers.<br>8) For B.Ed and D.Ed courses : 100 % benefit (Tuition Fees, Exam Fees and Maintenance Allowance) is applicable for D.Ed, B.Ed courses. For students studying in Aided, UnAided for D.Ed, B.Ed courses then Fee structure is applicable as per Government rates for same course<br>9) Note : If applicant takes an admission on or before 20th of any month should entitle date maintenance allowance will be issued for that current month. Otherwise maintenance allowance will be entitle from next month.<br><br><h5>Eligibility</h5>1) The parents/Guardians annual Income should be less than or equal to Rs.1.00 Lac.<br>2) Applicant should be belongs to VJNT category.<br>3) Applicants must be residents of Maharashtra.<br>4) Applicants must be pursuing the education course approved by the government from class Post-Matric.<br>5) Maintenance allowance & Exam Fees are paid to Applicant if Applicant get promoted to next higher class.<br>6) If Applicant fails in particular year then he will get the Tuition Fees, Exam Fees and Maintenance allowance of that particular academic year but he/she will not get the benefit until he/she gets promoted to next higher class.<br>7) Applicant should be come through CAP round for only professional courses.<br>8) Only two children (i) any number of girls applicants allowed. ii) boys applicants maximum 2 of the same parent) of the same parents will be eligible for the Scholarship.<br>9) No scholarship will be paid to the Applicants under this scheme from the date he /she accepts another Scholarship / stipend.<br>10) 75 % attendance is mandatory for current year.<br>11) Applicant will be eligible for scholarship if he / she changes the course Non – Professional to Professional but he will not be eligible if he / she changes the course from Professional to Non – Professional.<br>12) Scholarships/freeship will continue until Applicant completes one course. Ex. - 11th, 12th Arts - B.A., M.A. , M.Phil., P.H.D. If, Applicant completed B.A and B.Ed. course and later after taking admission for M.A., for M.A. course He/she will not be allowed for scholarship/freeship. But after admission to M.B.A. after B.Ed, it can be eligible for scholarship/freeship as it is a professional post graduate course.<br>13) Applicant studying in particular professional/Non-Professional course, and availing benefits of scholarship/freeship for that academic course and if he/she wants to change his existing Professional/Non-Professional course in between academic years he/she will not be eligible for freeship/scholarship for further course.<br><br><h4>Renewal Policy</h4>1) Applicant have to pass the previous year examination.<br>2) In case of VJNT if Applicant fails for a year then the Applicant is not paid any reimbursement for that particular year.<br>3) For Group A – If an applicant pursuing Group A course fails in the examination for the 1st time the award may be renewed. For second & sub sequent failure in any class the Applicant shall bear his / her own expenses until he / she secure promotion to the next higher class.<br>4) For Group B,C,D,E - he/she has to secure promotion to higher class (For second & sub sequent failure in any class the Applicant shall bear his / her own expenses until he / she secure promotion to the next higher class.)<br>5) If due to any medical condition or due to any unforeseeable event the Applicant cannot appear in the annual examination, the head master of the college can approve or certify that if the Applicant would have appeared in the annual examination, he would have been able to pass the examination. This will be only allowed if the head of the institution is satisfied by the submission of medical proof or any other required sufficient proof that the Applicant presents to the college.<h5>Documents Required</h5>1. Caste certificate - should be issued by competent authority(Issued by Govt. of Maharashtra) This certificate considered as Proof of Resident.<br>2. Income certificate / Income Declaration - should be issued by competent authority<br>3. Caste Validity Certificate – (Mandatory for Professional Degree courses, Professional Post Graduate. For Non Professional courses caste validity is not mandatory)<br>4. HSC or SSC marksheet or last examination marksheet.<br>5. Gap certificate - Not mandatory but in case of gap it is mandatory.<br>6. If applicable father/Guardians death certificate.<br>7. Ration Card for identify number of children in family.<br>8. Leaving Certificate<br>9. Declaration certificate of parents/guardians about number of children beneficiaries."],
+        "context_set":""
+        },     
+        { "tag":"Post Matric Scholarship to OBC Students details",
+            "patterns":["Post Matric Scholarship to OBC Students details","Post Matric OBC Scholarship details"],
+             "responses":["<h5>Scheme Name</h5>Post Matric Scholarship to OBC Students<br><br><h5>Department Name</h5>VJNT,OBC and SBC Welfare Department<br><br><h5>Overview</h5>• Providing financial assistance for education.<br>• Creating a passion for higher education.<br>• Providing students the opportunity to go to the mainstream of education through education.<br>• Scholarship scheme to avoid transparency, co-ordination and delay.<br>• Benefits of Tuition Fees, Exam Fees and Maintenance Allowance are paid to only OBC category students<br><br><h5>Benefits</h5>Eligible O.B.C Applicants are paid maintenance allowance:<br>1) If Applicant select Course Group A - for hostlers Rs.425/p.m. & Day Scholars(Non Hostlers) Rs.190/p.m. (Duration - Admission date to till exam completion date)<br>2) If Applicant select Course Group B - for hostlers Rs.290/p.m. & Day Scholars(Non Hostlers) Rs.190/p.m.(Duration - Admission date to till exam completion date)<br>3) If Applicant select Course Group C - for hostlers Rs.290/p.m. & Day Scholars(Non Hostlers) Rs.190/p.m.(Duration - Admission date to till exam completion date)<br>4) If Applicant select Course Group D - for hostlers Rs.230/p.m. & Day Scholars(Non Hostlers) Rs.120/p.m. (Duration - Admission date to till exam completion date)<br>5) If Applicant select Course Group E - for hostlers Rs.150/p.m. & Day Scholars(Non Hostlers) Rs.90/p.m.(Duration - Admission date to till exam completion date)<br>6) Also the OBC Applicants admitted in Govt. Approved non granted colleges in professional courses are paid 50% Tuition fees and Exam fees.<br>7) Tuition Fee, Exam Fee and Maintenance allowance are paid 100% to applicants who’s studying in government/aided institutions in professional courses and non-professional courses.<br>8) Tuition Fee and Exam Fee are paid 50% and Maintenance allowance are paid 100% to applicants who’s studying in non-government/unaided institutions in professional courses and non-professional courses.<br>9) If Applicant get admission in government hostel then he will eligible only 1/3rd amount of hostlers.<br>10) For OBC Applicants studying in private un-aided institutions, fees structure of government aided institutions will be applicable only for Non – Professional courses (Tuition Fees, Exam Fees and other Fees)<br>11) Applicant studying in particular professional/Non-Professional course, and availing benefits of scholarship/freeship for that academic course and if he/she wants to change his existing Professional/Non-Professional course in between academic years he/she will not be eligible for freeship/scholarship for further course.<br>12) For B.Ed and D.Ed courses : 100 % benefit (Tuition Fees, Exam Fees and Maintenance Allowance) is applicable for D.Ed, B.Ed courses. For students studying in Aided, UnAided for D.Ed, B.Ed courses then Fee structure is applicable as per Government rates for same course.<br>Note: If applicant takes an admission on or before 20th of any month should entitle date maintenance allowance will be issued for that current month. Otherwise maintenance allowance will be entitled from next month.<br><br><br><h5>Eligibility</h5>1) The parents/Guardians annual Income should be less than or equal to Rs.1.00 Lac.<br>2) Applicant should be belongs to OBC category.<br>3) Applicants must be residents of Maharashtra.<br>4) Applicants must be pursuing the education course approved by the government from class Post-Matric.<br>5) If Applicant fails in particular year then he will get the Tuition Fees, Exam Fees and Maintenance allowance of that particular academic year but he/she will not get the benefit until he/she gets promoted to next higher class.<br>6) Applicant should be come through CAP round for only professional courses.<br>7) Only two children (i)any number of girls applicants allowed. ii) boys applicants maximum 2 of the same parents will be eligible for the Scholarship.<br>8) No scholarship will be paid to the Applicants under this scheme from the date he /she accepts another Scholarship / stipend.<br>9) 75 % attendance is mandatory for current year.<br>10) Applicant will be eligible for scholarship if he / she changes the course Non – Professional to Professional but he will not be eligible if he / she changes the course from Professional to Non – Professional.<br>11) Scholarships/freeship will continue until Applicant completes one course. Ex. - 11th, 12th Arts - B.A., M.A. , M.Phil., P.H.D. If, Applicant completed B.A and B.Ed. course and later after taking admission for M.A., for M.A. course He/she will not be allowed for scholarship/freeship. But after admission to M.B.A. after B.Ed, it can be eligible for scholarship/freeship as it is a professional postgraduate course.<br>12) Applicant studying in particular professional/Non-Professional course, and availing benefits of scholarship/freeship for that academic course and if he/she wants to change his existing Professional/Non-Professional course in between academic years he/she will not be eligible for freeship/scholarship for further course.<br><br><h4>Renewal Policy</h4>1) The Applicant have to pass the previous year examination.<br>2) In case of OBC if Applicant fails for a year then the Applicant is not paid any reimbursement for that particular year.<br>3) For Group A – If an applicant pursuing Group A course fails in the examination for the 1st time the award may be renewed. For second & sub sequent failure in any class the Applicant shall bear his / her own expenses until he / she secure promotion to the next higher class.<br>4) For Group B,C,D,E Courses - he/she has to secure promotion to higher class.( For second & sub sequent failure in any class the Applicant shall bear his / her own expenses until he / she secure promotion to the next higher class.)<br>5) If due to any medical condition or due to any unforeseeable event the Applicant cannot appear in the annual examination, the head master of the college can approve or certify that if the Applicant would have appeared in the annual examination, he would have been able to pass the examination. This will be only allowed if the head of the institution is satisfied by the submission of medical proof or any other required sufficient proof that the Applicant presents to the college.<br><h5>Documents Required</h5>1.Caste certificate - should be issued by competent authority(Issued by Govt. of Maharashtra) This certificate considered as Proof of Resident.<br>2. Income certificate / Income Declaration - should be issued by competent authority<br>3. Caste Validity Certificate – (Mandatory for Professional Degree courses, Professional Post Graduate. For Non Professional courses caste validity is not mandatory)<br>4. HSC or SSC marksheet or last examination marksheet.<br>5. Gap certificate - Not mandatory but in case of gap it is mandatory.<br>6. If applicable father/Guardians death certificate.<br>7. Ration Card for identify number of children in family.<br>8. Leaving Certificate<br>9. Declaration certificate of parents/guardians about number of children beneficiaries."],
+        "context_set":""
+        }, 
+        { "tag":"Post Matric Scholarship to SBC Students details",
+            "patterns":["Post Matric Scholarship to SBC Students details","Post Matric SBC Scholarship details"],
+            "responses":["<h5>Scheme Name</h5>Post Matric Scholarship to SBC Students<br><br><h5>Department Name</h5>VJNT,OBC and SBC Welfare Department<br><br><h5>Overview</h5>• Providing financial assistance for education.<br>• Creating a passion for higher education.<br>• Providing students the opportunity to go to the mainstream of education through education.<br>• Scholarship scheme to avoid transparency, co-ordination and delay.<br>• Benefits of Tuition Fees, Exam Fees and Maintenance Allowance are paid to only SBC category students.<br><br><h5>Benefits</h5>Eligible SBC Applicants are paid maintenance allowance :<br>1) If Applicant select Course Group A - for hostlers Rs.425/p.m. & Day Scholars(Non Hostlers) Rs.190/p.m. (Duration - Admission date to till exam completion date)<br>2) If Applicant select Course Group B - for hostlers Rs.290/p.m. & Day Scholars(Non Hostlers) Rs.190/p.m.(Duration - Admission date to till exam completion date)<br>3) If Applicant select Course Group C - for hostlers Rs.290/p.m. & Day Scholars(Non Hostlers) Rs.190/p.m.(Duration - Admission date to till exam completion date)<br>4) If Applicant select Course Group D - for hostlers Rs.230/p.m. & Day Scholars(Non Hostlers) Rs.120/p.m. (Duration - Admission date to till exam completion date)<br>5) If Applicant select Course Group E - for hostlers Rs.150/p.m. & Day Scholars(Non Hostlers) Rs.90/p.m.(Duration - Admission date to till exam completion date)<br>6) Tuition Fee, Exam Fee and Maintenance allowance are paid 100% to applicants who’s studying in government/aided/unaided institutions in professional courses and non-professional courses.<br>7) If Applicant get admission in government hostel then he will eligible only 1/3rd amount of hostlers.<br>8) For B.Ed and D.Ed courses : 100 % benefit (Tuition Fees, Exam Fees and Maintenance Allowance) is applicable for D.Ed, B.Ed courses. For students studying in Aided, UnAided for D.Ed, B.Ed courses then Fee structure is applicable as per Government rates for same course<br>Note : If applicant takes an admission on or before 20th of any month should entitle date maintenance allowance will be issued for that current month. Other wise maintenance allowance will be entitle from next month.<br><br><br><h5>Eligibility</h5>1) The parents/Guardians annual Income should be less than or equal to Rs.1.00 Lac.<br>2) Applicants must be belongs to SBC category.<br>3) Applicants should be residents of Maharashtra.<br>4) Applicants must be pursuing the education course approved by the government from class Post-Matric.<br>5) If Applicant fails in particular year then he will get the Tuition Fees, Exam Fees and Maintenance allowance of that particular academic year but he/she will not get the benefit until he/she gets promoted to next higher class.<br>6) Applicant should be come through CAP round for only professional courses.<br>7) Only two children (i)any number of girls applicants allowed. ii) boys applicants maximum 2 of the same parent will be eligible for the Scholarship.<br>8) No scholarship will be paid to the Applicants under this scheme from the date he /she accepts another Scholarship / stipend.<br>9) 75 % attendance is mandatory for current year.<br>10) Applicant will be eligible for scholarship if he / she changes the course Non – Professional to Professional but he will not be eligible if he / she changes the course from Professional to Non – Professional.<br>11) Scholarships/freeship will continue until Applicant completes one course. Ex. - 11th, 12th Arts - B.A., M.A. , M.Phil., P.H.D. If, Applicant completed B.A and B.Ed. course and later after taking admission for M.A., for M.A. course He/she will not be allowed for scholarship/freeship. But after admission to M.B.A. after B.Ed, it can be eligible for scholarship/freeship as it is a professional postgraduate course.<br>12) Applicant studying in particular professional/Non-Professional course, and availing benefits of scholarship/freeship for that academic course and if he/she wants to change his existing Professional/Non-Professional course in between academic years he/she will not be eligible for freeship/scholarship for further course.<br><br><h4>Renewal Policy</h4>1) The Applicant have to pass the previous year examination.<br>2) In case of SBC if Applicant fails for a year then the Applicant is not paid any reimbursement for that particular year.<br>3) For Group A – If an applicant pursuing Group A course fails in the examination for the 1st time the award may be renewed. For second & sub sequent failure in any class the Applicant shall bear his / her own expenses until he / she secure promotion to the next higher class.<br>4) For Group B,C,D,E - he/she has to secure promotion to higher class(For second & sub sequent failure in any class the Applicant shall bear his / her own expenses until he / she secure promotion to the next higher class.).<br>5) If due to any medical condition or due to any unforeseeable event the Applicant cannot appear in the annual examination, the head master of the college can approve or certify that if the Applicant would have appeared in the annual examination, he would have been able to pass the examination. This will be only allowed if the head of the institution is satisfied by the submission of medical proof or any other required sufficient proof that the Applicant presents to the college.<br><h5>Documents Required</h5>1. Caste certificate - should be issued by competent authority(Issued by Govt. of Maharashtra) This certificate considered as Proof of Resident.<br>2. Income certificate / Income Declaration - should be issued by competent authority<br>3. Caste Validity Certificate – (Mandatory for Professional Degree courses, Professional Post Graduate. For Non Professional courses caste validity is not mandatory)<br>4. HSC or SSC marksheet or last examination marksheet.<br>5. Gap certificate - Not mandatory but in case of gap it is mandatory.<br>6. If applicable father/Guardians death certificate.<br>7. Ration Card for identify number of children in family.<br>8. Leaving Certificate<br>9. Declaration certificate of parents/guardians about number of children beneficiaries."],
+        "context_set":""
+        },  
+        { "tag":"First_Year_Fee",
+             "patterns":["First year admisssion fee","1st year admission fee","Ist year admission fee"],
+              "responses":[" 1.DEVELOPMENT FEE--1000 <br> 2.GYMKHANA--200 <br> 3.SOCIAL GATHERING--100 <br> 4.LIBRARY--100 <br> 5.CAUTION MONEY--200 <br> 6.EMAIL & INTERNET--150 <br> 7.INSURANCE--50 <br> 8.CNE(CREDIT NON EXAM)--500 <br> 9.ENROLLMENT--200 <br> 10.TRAINING & PLACEMENT --50 <br> 11.AMARTYA SHIKSHA VIMA YOJNA--442 <br> TOTAL--2992 <br> Note:TUITION FEE  6000/- PER YEAR ONLY FOR OPEN CATEGORIES. "],
+              "context_set":""
+       },
+       { "tag":"Second_Year_Fee",
+            "patterns":["Second year admisssion fee","2nd year admission fee","IInd year admission fee"],
+             "responses":[" 1.DEVELOPMENT FEE--1000 <br> 2.GYMKHANA--200 <br> 3.SOCIAL GATHERING--100 <br> 4.LIBRARY--100 <br> 5.EMAIL & INTERNET--150 <br> 6.TRAINING & PLACEMENT--50 <br> 7.INSURANCE--50 <br> TOTAL--1650 <br> Note:TUITION FEE  6000/- PER YEAR ONLY FOR OPEN CATEGORIES. "],
+             "context_set":""
+      },
+      { "tag":"Third_Year_Fee",
+            "patterns":["Third year admisssion fee","3nd year admission fee","IIIrd year admission fee"],
+             "responses":[" 1.DEVELOPMENT FEE--1000 <br> 2.GYMKHANA--200 <br> 3.SOCIAL GATHERING--100 <br> 4.LIBRARY--100 <br> 5.EMAIL & INTERNET--150 <br> 6.INSURANCE--50 <br> TOTAL--1600 <br> Note:TUITION FEE  6000/- PER YEAR ONLY FOR OPEN CATEGORIES."],
+             "context_set":""
+      },   
+      { "tag":"Direct_Second_Year_Fee",
+            "patterns":["Direct Second year admisssion fee","Direct IInd year admission fee","Direct 2nd year admission fee"],
+             "responses":["1.DEVELOPMENT FEE--1000 <br> 2.GYMKHANA--200 <br> 3.SOCIAL GATHERING--100 <br> 4.LIBRARY--100 <br> 5.CAUTION MONEY--200 <br> 6.EMAIL & INTERNET--150 <br> 7.INSURANCE--50 <br> 8.CNE(CREDIT NON EXAM)--500 <br> 9.ENROLLMENT--200 <br> 10.TRAINING & PLACEMENT --50 <br> 11.AMARTYA SHIKSHA VIMA YOJNA--228 <br> TOTAL--2778 <br> Note:TUITION FEE  6000/- PER YEAR ONLY FOR OPEN CATEGORIES."],
+             "context_set":""
+      },
+      { "tag":"Civil_Intake",
+          "patterns":["Civil Engineering Intake","Civil Intake","Civil department Intake","Civil Engineering Admission seats","Civil Admission seats","Civil department Admission seats"],
+           "responses":["Civil: <br> First shift:90 seats <br> Second shift:60 seats"],
+           "context_set":""
+    },
+    { "tag":"Mechanical_Intake",
+        "patterns":["Mechanical Engineering Intake","Mechanical Mechanical","Mechanical department Intake","Mechanical Engineering Admission seats","Mechanical Admission seats","Mechanical department Admission seats"],
+         "responses":["Mechanical: <br> First shift:60 seats <br> Second shift:60 seats"],
+         "context_set":""
+  },
+  { "tag":"Electrical_Intake",
+    "patterns":["Electrical Engineering Intake","Electrical Intake","Electrical department Intake","Electrical Engineering Admission seats","Electrical Admission seats","Electrical department Admission seats"],
+     "responses":["Electrical: <br> 60 seats"],
+     "context_set":""
+  },
+   { "tag":"Electronics_and_telecommunication_Intake",
+    "patterns":["Electronics and telecommunication Engineering Intake","Electronics and telecommunication Intake","Electronics and telecommunication department Intake","Electronics and telecommunication Engineering Admission seats","Electronics and telecommunication Admission seats","Electronics and telecommunication department Admission seats","Etx Intake","Etx Intake","Etx department Intake","Etx Engineering Admission seats","Etx Admission seats","Etx department Admission seats"],
+     "responses":["Electronics and telecommunication: <br> First shift:90 seats <br> Second shift:60 seats"],
+     "context_set":""
+   },   
+   { "tag":"Information_Technology_Intake",
+    "patterns":["Information Technology Intake","Information Technology department Intake","Information Technology Admission seats","Information Technology department Admission seats","IT Intake","IT department Intake","IT Admission seats","IT department Admission seats"],
+     "responses":["Information Technology: <br> 60 seats"],
+     "context_set":""
+  },
+  { "tag":"Metallurgy_Intake",
+    "patterns":["Metallurgy Intake","Metallurgy Technology department Intake","Metallurgy Admission seats","Metallurgy department Admission seats"],
+     "responses":["Metallurgy: <br> 40 seats"],
+     "context_set":""
+  },
+  { "tag":"Textile_Manufactures_Intake",
+    "patterns":["Textile Manufactures Intake","Textile Manufactures department Intake","Textile Manufactures Admission seats","Textile Manufactures department Admission seats"],
+     "responses":["Textile Manufactures: <br> 30 seats"],
+     "context_set":""
+  },
+  { "tag":"Packaging_Technology_Intake",
+    "patterns":["Packaging  Intake","Packaging department Intake","Packaging Admission seats","Packaging department Admission seats","Packaging Technology  Intake","Packaging Technology department Intake","Packaging Technology Admission seats","Packaging Technology department Admission seats"],
+     "responses":["Packaging Technology: <br> 30 seats"],
+     "context_set":""
+  },
+  { "tag":"Mining_and_Mine_Surveying_Intake",
+    "patterns":["Mining and Mine Surveying  Intake","Mining and Mine Surveying Intake","Mining and Mine Surveying Admission seats","Mining and Mine Surveying department Admission seats","Mining and Mine Surveying  Intake","Mining and Mine Surveying department Intake","Mining and Mine Surveying Admission seats","Mining and Mine Surveying department Admission seats","Mining Intake","Mining Intake","Mining Admission seats","Mining department Admission seats","Mining Intake","Mining department Intake","Mining Admission seats","Mining department Admission seats"],
+     "responses":["Packaging Technology: <br> 40 seats"],
+     "context_set":""
+  },
+  { "tag":"Automobile_Intake",
+    "patterns":["Automobile Intake","Automobile Technology department Intake","Automobile Admission seats","Automobile department Admission seats"],
+     "responses":["Automobile: <br> 60 seats"],
+     "context_set":""
+  },
+  { "tag":"Travel_and_Tourism_Intake",
+    "patterns":["Travel and Tourism Intake","Travel and Tourism Technology department Intake","Travel and Tourism Admission seats","Travel and Tourism department Admission seats"],
+     "responses":["Travel and Tourism: <br> 30 seats"],
+     "context_set":""
+  },
+  { "tag":"Computer_Engineering_Intake",
+    "patterns":["Computer Engineering Intake","Computer Engineering department Intake","Computer Engineering Admission seats","Computer Engineering department Admission seats","CM Intake","CM department Intake","CM Admission seats","CM department Admission seats","Computer Science Intake","Computer Science Technology department Intake","Computer Science Admission seats","Computer Science department Admission seats"],
+     "responses":["Travel and Tourism: <br> 60 seats"],
+     "context_set":""
+  },
+  { "tag":"mechanical mission",
+    "patterns":["mechanical mission","mechanical department mission","mechanical programme mission"],
+    "responses":[" To develop and deliver quality academic programs in Emerging field of Mechanical Engineering to empower the students to meet industrial needs with enivornmental concern. <br> To adopt the best Instructive methods to maximize knowledge transfer. <br> To provide the best facility, infrastructure and environment to the students and faculty members, creating an ambience conducive for excellence in Mechanical Engineering education. <br> To impart quality education to inculcate moral values, professional ethics and Entrepreneurial qualities."],
+    "context_set":""
+  },   
+  { "tag":"civil mission",
+    "patterns":["civil mission","civil department mission","civil programme mission"],
+    "responses":["M1. To produce civil engineers of high caliber, technical skills and ethical values to serve the Society and nation. <br>   M2. To create competent professionals who are trained in the design, estimate, and development of civil engineering systems. <br> M3. To promote innovative and original thinking in the minds of budding engineers to face thechallenges of future. <br> M4. To provide essential knowledge & skill to the students and enhance their employable potential and entrepreneurial capabilities"],
+    "context_set":""
+  },
+  { "tag":"Regular Activities",
+             "patterns":["Regular activities college","Regular activities activities happening in college"],
+              "responses":["1.Expert Lectures: <br> The institute seeks help of knowledgeable and eminent personalities from technological field for delivering expert lectures on selected topics of emerging technologies for the benefit of students. <br> 2.Industrial / Technical Exhibitions: <br> To get a feel of latest trends in technological world, students are encouraged to organize and participate in technical exhibitions at Institute, regional and State level. <br> 3.Industrial Visits: <br> Regular visits to industries / field are arranged for students enlarge, medium and small scale industries to acquaint them and expose them to the actual area of work and industrial environment.  <br> 4.Project & Seminar: <br> These are organized in arider to inculcate innovative ideas and skills in students. Institute organizes such events, as well as students are motivated to participate in regional and state level competitions. Many students have brought laurel to the institute. <br> 5.Teachers Day / Engineers Day: <br> Teachers day is organized on 5th September and Engineers day on 15th September every year. <br> 6.TWIN- TECH: <br> This event is organized by IETE Students chapter of Electronics and telecommunication department. Seminar competition and Breadboard based Circuit design competition are arranged."],
+              "context_set":""
+           },
+           
+           { "tag":"Expert lectures",
+             "patterns":["Expert lectures","Expert lectures in GPN","Expert lecturers  in Government Polytechnic Nagpur"],
+              "responses":["The institute seeks help of knowledgeable and eminent personalities from technological field for delivering expert lectures on selected topics of emerging technologies for the benefit of students."],
+              "context_set":""
+           },
+           
+             { "tag":"Industrial / Technical Exhibitions",
+             "patterns":["Industrial / Technical Exhibitions","Industrial / Technical Exhibitions in GPN","Industrial / Technical Exhibitions in Government Polytechnic Nagpur"],
+              "responses":["To get a feel of latest trends in technological world, students are encouraged to organize and participate in technical exhibitions at Institute, regional and State level."],
+              "context_set":""
+           },
+              
+              { "tag":"Industrial Visits",
+             "patterns":["Industrial Visits","Industrial Visits in GPN","Industrial Visits in Government Polytechnic Nagpur"],
+              "responses":["Regular visits to industries / field are arranged for students enlarge, medium and small scale industries to acquaint them and expose them to the actual area of work and industrial environment."],
+              "context_set":""
+           }, 
+           
+           { "tag":"Project and Seminar",
+             "patterns":["Project & Seminar","Project & Seminar in GPN","Project & Seminar in Government Polytechnic Nagpur"],
+              "responses":["These are organized in arider to inculcate innovative ideas and skills in students. Institute organizes such events, as well as students are motivated to participate in regional and state level competitions. Many students have brought laurel to the institute."],
+              "context_set":""
+           },
+           { "tag":"CONTINUING EDUCATION PROGRAMME (CEP)",
+             "patterns":["CONTINUING EDUCATION PROGRAMME (CEP)","CONTINUING EDUCATION PROGRAMME","CEP"],
+              "responses":["Continuing Education is one of the important services provides by the institute to the society. The activity initiated under World Bank Project (WBP), was again fostered through the Canada India Institute Industry Project (CIILP). <br>Continuing Education Programs are conducted to provide formal education in various fields. This helps candidates from society and industry to acquire more knowledge in respective fields which enable them to perform more effectively and efficiently in their jobs. Total 27 programs offered through Continuing Education Department. The Institute generates revenue through such programs for development of the institute. The institute trains about 1200 personnel annually since its inception. <br> This cell conducts various need based, skill based training programmes such as computer based training, Self Employment and Job oriented Training and Training for Industry Personnel. <br>With emerging technologies and consequent “Information Explosion” in the field of science and technology the technical manpower needs continuous updating in order to keep pace with current developments. <br> The work force in industries and their management look forward for avenues, which could fulfill this need. In addition, the engineering manpower in industries must have opportunities for horizontal and/or vertical mobility from the point of view of their professional growth, career advancement and for adapting to changing job patterns within industries.."],
+              "context_set":""
+           }
+ ]
+}
